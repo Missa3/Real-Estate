@@ -34,19 +34,14 @@ body {
     background-image: url(http://unsplash.com/photos/y_jDYDXopI0/download?force=true);
     background-size: cover;
     background-position: center;
-    font-size: 2rem;
+    /*font-size: 1.1em;*/
     height: 350px;
     box-sizing: border-box;
-    padding: 60px 40px;
+    padding: 60px 50px;
     color: white;
     text-shadow: 0 0 5px black;
     font-weight: bold;
 }
-
-.row {
-    /*background: green;*/
-}
-
 #mainArrows i {
     font-size: 1.8em;
     background: #8f8f8f;
@@ -55,6 +50,12 @@ body {
     opacity: .8;
     border-radius: 10%
 }
+
+.arrows i:hover, #mainArrows i:hover{
+font-size: 1.4em;
+}
+
+
 
 .places {
     background: #edeef0;
