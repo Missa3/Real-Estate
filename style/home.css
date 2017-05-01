@@ -31,7 +31,7 @@ body {
 }
 
 .header {
-    background-image: url(http://unsplash.com/photos/y_jDYDXopI0/download?force=true);
+    background-image: url(home1.jpg);
     background-size: cover;
     background-position: center;
     /*font-size: 1.1em;*/
@@ -44,8 +44,6 @@ body {
 }
 #mainArrows i {
     font-size: 1.8em;
-    background: #8f8f8f;
-    color: #1f1f1f;
     margin-left: 5px;
     opacity: .8;
     border-radius: 10%
@@ -130,7 +128,7 @@ p {
 
 .arrows {
     float: right;
-    margin: 10px 0;
+    margin: 5px 0;
 }
 
 .house {
@@ -147,7 +145,7 @@ p {
 .pic {
     width: 265px;
     height: 225px;
-    background-image: url(http://unsplash.com/photos/Vo52cKzOxMY/download?force=true);
+    background-image: url(home2.jpg);
     background-position: center;
     background-size: cover;
     margin: 10px;
